@@ -12,7 +12,7 @@ Experimental rice.
 As theme [sugar-candy](https://github.com/Kangie/sddm-sugar-candy.git) was used, but with a small changes of the text and insertion fields positions.
 
 ### [#NeoVim](#love_ya)
-Text-editor wirh a lot of plugins.
+Text-editor with a lot of plugins.
 
 ![](https://github.com/Krak9n/my_dots/blob/main/pictures/ricing.jpg)
 
