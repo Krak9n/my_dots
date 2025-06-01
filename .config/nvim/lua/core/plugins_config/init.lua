@@ -1,0 +1,10 @@
+require("core.plugins_config.moonfly")
+require("core.plugins_config.nvim-tree")
+require("core.plugins_config.lualine")
+require("core.plugins_config.telescope")
+require("core.plugins_config.tinygit")
+require("core.plugins_config.cmp-config")
+--require("core.plugins_config.tree-sitter-surrealdb")
+
+require("core.plugins_config.indent-blaackline")
+-- require("core.plugins_config.autopairs-config")
