@@ -14,7 +14,9 @@ As theme [sugar-candy](https://github.com/Kangie/sddm-sugar-candy.git) was used,
 ### [NeoVim](#love_ya)
 Text-editor with a lot of plugins.
 
-![](https://github.com/Krak9n/my_dots/blob/main/pictures/ricing.jpg)
-![]()
+#### [Old](#)
+![](https://github.com/Krak9n/my_dots/blob/main/old_rice/pictures/ricing.jpg)
+### [New](#)
+![](https://github.com/Krak9n/my_dots/blob/main/new_rice/rice_t.png)
 
 ### I'll be updating it, as frequently as possible. Thank you.
