@@ -15,5 +15,6 @@ As theme [sugar-candy](https://github.com/Kangie/sddm-sugar-candy.git) was used,
 Text-editor with a lot of plugins.
 
 ![](https://github.com/Krak9n/my_dots/blob/main/pictures/ricing.jpg)
+![]()
 
 ### I'll be updating it, as frequently as possible. Thank you.
