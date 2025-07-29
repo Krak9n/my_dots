@@ -17,8 +17,8 @@
     As theme [sugar-candy](https://github.com/Kangie/sddm-sugar-candy.git) was used, but with the small changes to the text and insertion fields positions.
 -->
 ### Photo examples
-![](https://github.com/Krak9n/my_dots/blob/main/pics/rice_t.jpg)
-![](https://github.com/Krak9n/my_dots/blob/main/pics/pro.jpg)
+![](https://github.com/Krak9n/my_dots/blob/main/pics/rice_t.png)
+![](https://github.com/Krak9n/my_dots/blob/main/pics/pro.png)
 
 ### Worth mention
 This is the entire file structure.
