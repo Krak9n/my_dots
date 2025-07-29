@@ -1,0 +1,7 @@
+require("core.plugins_config.toggleterm")
+require("core.plugins_config.moonfly")
+require("core.plugins_config.nvim-tree")
+require("core.plugins_config.lualine")
+require("core.plugins_config.telescope")
+require("core.plugins_config.nvim-treesitter")
+require("core.plugins_config.indent-blaackline")

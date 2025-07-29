@@ -1,0 +1,19 @@
+configuration {
+    modi: "drun,run";
+    display-run: "Run";
+    @theme: "~/.config/rofi/mytheme.rasi";
+    location: 1;
+    anchor: "north";
+    fullscreen: false;
+}
+
+window {
+    width: 50%;
+    location: "north";
+    border: 0;
+}
+
+textbox {
+    text-color: @foreground-color;
+    padding: 4px;
+}

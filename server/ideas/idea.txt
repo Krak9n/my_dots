@@ -1,0 +1,4 @@
+- make a background to like a cava producing music. in ts/js or rust
+- site has to load my viewed stuff from a browser and place it
+  from 1 to 5
+
