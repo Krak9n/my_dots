@@ -4,7 +4,7 @@
 # used as systemd timer
 
 git_remote="https://github.com/Krak9n/dotfiles"
-suck="$HOME/programming/mine/actual_stuff/my_dots/config/"
+suck="$HOME/stuff/my_dots/config/"
 paths="$HOME/dots_backup.conf"
 the_path="\e[1A\e[K"
 
