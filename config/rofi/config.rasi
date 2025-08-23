@@ -1,24 +1,15 @@
 configuration {
-    modi: "drun,window,run,ssh";
-    
-    display-run: "run: ";
-    
-    display-drun: "apps: ";
-    drun-display-format: "{name} ";
-
-    display-window: "windows: ";
-    display-ssh: "networks: ";
-
-    show-icons: false;
-   
-
-    //location: ;
-    //anchor: "center";
-    fullscreen: false;
+  
+  modi: "drun";
+  display-drun: " ";
+  drun-display-format: "{name} ";
+  
+  font: "JetBrainsMono Nerd Font Medium 12";
+  show-icons: false;
+  fullscreen: false;
 }
 
 window {
-    //background: #cc1c1c1c;
     background-color: @bg;
     border:           4;
     padding:          3;
@@ -30,76 +21,46 @@ mainbox {
     padding: 0;
 }
 
-textbox {
-    highlight:  @highlight;
-    text-color: @fg;
-}
-
-
 entry {
-    placeholder: "app name";
+    placeholder: " ";
 }
 
 element {
   orientation: horizontal;
   children: [ element-text ];
-  spacing: 5px;
+  spacing: 8px;
+}
+
+element-text {
+  vertical-align: 0.5;
 }
 
 entry, element-text {
-  text-color: purple;
+  text-color: red;
   background-color: rgb(0,0,0);
 }
-
-/*element-text {
-    vertical-align: 8.5;
-}
-*/
-/*
-listview {
-    padding:      2px 0px 0px ;
-    scrollbar:    true;
-    //border-color: var(separatorcolor);
-    spacing:      2px ;
-    fixed-height: 0;
-    border:       2px dash 0px 0px ;
-}
-*/
 
 inputbar {
   size             : 10em;
   enabled          : true;
   padding          : 2px;
-  spacing          : 4px;
+  spacing          : 2px;
   children         : [ entry ];
   border           : 0 0 2px 0 solid;
   border-color     : @bc;
   border-radius    : 2px;
   //background-color : @bg-input;
-  text-color       : @fg;
-  //children         : [ "textbox", "window", "mainbox" ];
+  //text-color       : @fg;
 }
-
 * {
-
-  //highlight: bold;
-
-  //bg-input: #FF444444;
-  bg: #FF444444; 
-  bg-alt: #995bd5;
-
+ 
+  transperent: #FF444444;
+  bg: #000000; 
   bc: #995bd5;
+  background-color: @bg;
 
-  fg: #8f5bd5;
-  fg-alt: #7d128d;
-    
-  highlight: #995bd5;
-  background:  transparent;
-  background-color: @bc;
   border-color: @bc; 
 
   border: 0.5;
-
 }
 
-// @theme "/usr/share/rofi/themes/gruvbox-dark-hard.rasi"
