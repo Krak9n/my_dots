@@ -1,28 +1,28 @@
 ### Small every days rice. xD
 > For now it works as the systemd timer. Therefore it updates every N minutes. <br />
-> Perhaps later I am going to make a bit more better looking. <br />
 
 ### [Software Used](#soft)
 - distro: [arch](https://wiki.archlinux.org/title/Arch_Linux) <br />
 - wm: [i3](https://i3wm.org/) <br />
 - compositor: [picom](https://github.com/yshui/picom) <br />
-- text-editor: [nvim](https://github.com/neovim/neovim) <br />
+- text-editor: [nvim](https://github.com/neovim/neovim) <br /> 
 - bar: [polybar](https://github.com/polybar/polybar) <br />
 - terminal: [kitty](https://github.com/kovidgoyal/kitty) <br />
 - display manager: [sddm](https://wiki.archlinux.org/title/SDDM) <br />
-- hardware specs: [neofetch](https://github.com/dylanaraps/neofetch) <br />
+- hardware specs: [rottedfetch](https://github.com/Krak9n/rottedfetch) <br />
 - window switcher: [rofi](https://github.com/davatorium/rofi) <br />
 - custom keys: [keyd](https://github.com/rvaiya/keyd) <br />
+- music player: [rmpc](https://mierak.github.io/rmpc/) <br />
 
 <!--
 ### Detailed information
 + SDDM:
     As theme [sugar-candy](https://github.com/Kangie/sddm-sugar-candy.git) was used, but with the small changes to the text and insertion fields positions.
 -->
-### Photo examples
+### Photo 
 ![](https://github.com/Krak9n/dotfiles/blob/main/pics/rice_t.png)
-![](https://github.com/Krak9n/dotfiles/blob/main/pics/pro.png)
-
+<!--![](https://github.com/Krak9n/dotfiles/blob/main/pics/pro.png)
+-->
 ### Worth mention
 This is the entire file structure.
 ```
@@ -30,11 +30,6 @@ This is the entire file structure.
 │   ├── i3
 │   ├── keyd
 │   ├── kitty
-│   ├── nvim
-│   │   ├── lua
-│   │   │   └── core
-│   │   │       └── plugins_config
-│   │   └── plugin
 │   ├── picom
 │   ├── polybar
 │   │   └── scripts
