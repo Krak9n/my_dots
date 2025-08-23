@@ -1,0 +1,8 @@
+require("vilgefortz.plugins_config.mary")
+require("vilgefortz.plugins_config.fff")
+require("vilgefortz.plugins_config.moonfly")
+require("vilgefortz.plugins_config.nvim-tree")
+require("vilgefortz.plugins_config.lualine")
+-- require("vilgefortz.plugins_config.telescope")
+require("vilgefortz.plugins_config.nvim-treesitter")
+require("vilgefortz.plugins_config.indent-blaackline")

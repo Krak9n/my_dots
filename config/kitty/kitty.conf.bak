@@ -1125,7 +1125,7 @@ cursor_image = ~/milkchancursor.png
  background #0d0e13
 
 #: The foreground and background colors.
- background_opacity 0.7
+ background_opacity 0.8
 
 #: The opacity of the background. A number between zero and one, where
 #: one is opaque and zero is fully transparent. This will only work if
@@ -2476,7 +2476,7 @@ cursor_image = ~/milkchancursor.png
 
 
 # BEGIN_KITTY_FONTS
-font_family      family="Mx437 IBM CGAthin"
+font_family      family="Monocraft"
 bold_font        auto
 italic_font      auto
 bold_italic_font auto
