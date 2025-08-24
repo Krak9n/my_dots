@@ -19,6 +19,9 @@
 + SDDM:
     As theme [sugar-candy](https://github.com/Kangie/sddm-sugar-candy.git) was used, but with the small changes to the text and insertion fields positions.
 -->
+### Worth mentions
++ nvim startup time is **15ms**.
+
 ### Photo 
 ![](https://github.com/Krak9n/dotfiles/blob/main/pics/rice_t.png)
 <!--![](https://github.com/Krak9n/dotfiles/blob/main/pics/pro.png)
