@@ -40,9 +40,9 @@ fn handle_connection(stream: &mut TcpStream)
 
     let (response, filename) = if request_line == "GET / HTTP/1.1" 
     {
-        ("HTTP/1.1 200 OK", "src/elements/index.html")
+        ("HTTP/1.1 200 OK", "src/beauty/index.html")
     } else {
-        ("HTTP/1.1 404 NOT FOUND", "src/elements/404.html")
+        ("HTTP/1.1 404 NOT FOUND", "src/beauty/404.html")
     };
     
     let contents = fs::read_to_string(filename).unwrap();
