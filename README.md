@@ -23,7 +23,7 @@
 + nvim startup time is **15ms**.
 
 ### Photo 
-![](https://github.com/Krak9n/dotfiles/blob/main/pics/rice_t.png)
+![](https://github.com/Krak9n/dotfiles/blob/main/pics/preview.png)
 <!--![](https://github.com/Krak9n/dotfiles/blob/main/pics/pro.png)
 -->
 ### Worth mention
