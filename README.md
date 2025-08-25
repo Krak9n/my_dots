@@ -26,7 +26,7 @@
 ![](https://github.com/Krak9n/dotfiles/blob/main/pics/preview.png)
 <!--![](https://github.com/Krak9n/dotfiles/blob/main/pics/pro.png)
 -->
-### Worth mention
+### File structure
 This is the entire file structure.
 ```
 ├── config
